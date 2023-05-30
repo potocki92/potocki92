@@ -1,3 +1,4 @@
+<div style="display: flex; justify-content: center; align-items: center;">
 ### Hi there, I'm Mateusz
 
 - I am currently learning React.
@@ -24,3 +25,4 @@
 
 <br />
 <br />
+</div>

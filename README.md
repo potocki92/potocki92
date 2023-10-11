@@ -24,9 +24,9 @@ I am a Full Stack Developer from Poland :poland:
 ---
 ### :hammer_and_wrench: Languages and Tools that I use:
 
-##### Programming Languages:
+#### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-##### Frontend Development:
+#### Frontend Development:
 <p>
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" />
@@ -51,13 +51,13 @@ I am a Full Stack Developer from Poland :poland:
   </a>
 </p>
 
-##### Backend Development:
+#### Backend Development:
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-##### Database:
+#### Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-##### Backend as a Service:
+#### Backend as a Service:
 [![My Skills](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
-##### Software:
+#### Software:
 <p>
   <a href="https://www.figma.com/">
     <img src="https://skillicons.dev/icons?i=figma" />

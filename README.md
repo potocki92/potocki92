@@ -7,11 +7,6 @@
 
 
 ### 👩‍💻 About Me
-A passionate junior Full-Stack Developer from Poland.
-
-🔭 I am seeking new opportunities and challenges as a Full-Stack Developer.
-
-🌱 Exploring TypeScript
 
 
 ### 🛠 Languages and Tools that I use:
